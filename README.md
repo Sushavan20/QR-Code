@@ -1,7 +1,6 @@
 # 🔧QR CODE GENERATOR⚙️
-#### 🌎 A simple 🔧QR CODE GENERATOR⚙️ Website using `HTML`(🛠️), `CSS`(🎨) & `Javascript`(🧠)
 
-### `Click The Link to Check My Webstite` 👉 : [Click Here](https://dhrupad-qrcodegenerator.netlify.app/)
+### `Click The Link to Check My Webstite` 👉 : [Click Here](https://sushavan20.github.io/Portfolio/)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="3000">
 
@@ -21,13 +20,5 @@
 
 #### Please Give a 🌟 if you Like
 
-###                 Happy Coding  💟
-
-## Contributors :-
 
 
-<!-- Copy-paste in your Readme.md file -->
-
-<a href = "https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo=dhrupad17/QR_CODE_GENERATOR"/>
-</a>
